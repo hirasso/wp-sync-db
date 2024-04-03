@@ -1,6 +1,6 @@
 # WP Sync DB
 
-This is a patched version of [wp-sync-db/wp-sync-db](https://github.com/wp-sync-db/wp-sync-db), which itself is a fork of [WP Migrate](https://deliciousbrains.com/wp-migrate-db-pro/).
+This is a patched fork of [wp-sync-db/wp-sync-db](https://github.com/wp-sync-db/wp-sync-db), which itself is a fork of [deliciousbrains/wp-migrate-db](https://github.com/deliciousbrains/wp-migrate-db).
 
 WP Sync DB eliminates the manual work of migrating a WP database. Copy your db from one WP install to another with a single-click in your dashboard. Especially handy for syncing a local development database with a live site.
 
